@@ -1,3 +1,9 @@
+# POWDER CLI
+
+This is the POWDER-CLI tool ( Prof Of Wow Docker Engine Command Line Interface). 
+It is under construction and is based on inquander (MIT License) tool. 
+
+
 inquander
 =========
 
